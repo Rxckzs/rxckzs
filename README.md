@@ -5,12 +5,12 @@
 I’m a developer who builds things and experiments with UI and web tech.
 
 - Display name: Rxckzs
-- Bio: 
+- Bio: I like tech n such
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: 
-- 👯 I’m open to collaborating on: 
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on: Nothing.
+- 🌱 I’m currently learning: PHP, Python and HTML.
+   👯 I’m open to collaborating on: Nothing.
+- ⚡ Fun fact: I cant actually Code.
 
 ## Featured Projects
 
@@ -26,10 +26,6 @@ I’m a developer who builds things and experiments with UI and web tech.
 
 ## Connect with me
 
-- Twitter: 
-- LinkedIn: 
-- Website: 
-
----
-
-Edit this README to add more info. The public repo list will be automatically updated weekly by a GitHub Action.
+- Twitter: idk
+- LinkedIn: none
+- Website: none (too poor)
